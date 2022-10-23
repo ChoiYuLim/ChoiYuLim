@@ -1,8 +1,6 @@
 <div align="center">
 
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&customColorList=0,2,2,5,30&height=250&section=header&text=Welcome%20To%20YULIM's%20GitHub&fontSize=60)
-##### ☀1일 1커밋 실천 중 (2022.07.24 ~ )
-##### 👩🏻‍💻안드로이드와 알고리즘을 공부 중입니다! 
 <br></br>
 ## 🛠SKILL🛠
 <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
